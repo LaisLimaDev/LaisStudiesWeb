@@ -3,3 +3,24 @@
 .center{
     text-align: center;
 }
+
+.rowcontainer{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+/*estilos do container da página sobre.html*/
+
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
